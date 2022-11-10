@@ -1,0 +1,17 @@
+[2022-10-06 14:55:44,446] Register - Step 01: Click to register link
+[2022-10-06 14:55:46,253] Register - Step 02: Input First Name with: Harry
+[2022-10-06 14:55:46,488] Register - Step 02: Input Last Name with: Clinton
+[2022-10-06 14:55:46,732] Register - Step 02: Input Email Name with: Harryclinton145144@gmail.com
+[2022-10-06 14:55:47,023] Register - Step 02: Input Password with: 123456
+[2022-10-06 14:55:47,257] Register - Step 02: Input Confirm Password with: 123456
+[2022-10-06 14:55:47,516] Register - Step 03: Click to register button
+[2022-10-06 14:55:49,079] Register - Step 04: Check Register Success Message
+[2022-10-06 14:55:49,185]  -------------------------- PASSED -------------------------- 
+[2022-10-06 14:55:49,185] Register - Step 05: Click to logout link
+[2022-10-06 14:55:50,272] Login - Step 06: Click to login link
+[2022-10-06 14:55:51,358] Login - Step 07: Input Email with: Harryclinton145144@gmail.com
+[2022-10-06 14:55:51,609] Login - Step 07: Input Password with: 123456
+[2022-10-06 14:55:51,904] Login - Step 08: Click to login button
+[2022-10-06 14:55:52,924] Login - Step 09: Check My Account Link is Displayed
+[2022-10-06 14:55:53,074] Login - Step 10: Click to MyAccount link
+[2022-10-06 14:55:53,890] Login - Step 11: Check Customer Info Page is Displayed
